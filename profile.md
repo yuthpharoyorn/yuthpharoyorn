@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Hi%20there,%20I'm%20Yuthpharo%20👋&fontSize=38&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20%26%20Machine%20Learning%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,21,26&height=220&section=header&text=Hi%20there,%20I'm%20Yuthpharo&fontSize=40&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%20and%20Machine%20Learning%20Builder&descAlignY=60&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Dynamic Typing Animation -->
   <a href="https://git.io/typing-svg">
@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/yuthpharo-yorn-6603463aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -19,11 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://x.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:yuthpharoyorn@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -36,15 +32,14 @@
 ### 💫 About Me
 
 ```yaml
-name: Yuthpharo
+name: Yorn Yuthpharo
 role: Full-Stack Developer & AI Engineer
-location: YOUR_LOCATION 🌍
+location: Phnom Penh 🌍
 focus: Scalable Web Systems & Applied Machine Learning
-current_project: Building an intelligent AI-driven SaaS platform 🚀
-fun_fact: "I convert caffeine into clean code and fine-tuned models ☕✨"
+current_project: Building my first mobile app
 ```
 
-- 🔭 **Currently working on:** Next-generation web applications powered by generative AI & LLMs.
+- 🔭 **Currently working on:** Wallpaper Engine Mobile App
 - 🧠 **Exploring & Learning:** Agentic architectures, RAG systems, Vector databases, and Cloud-native microservices.
 - 💬 **Ask me about:** **React, Next.js, TypeScript, Python, PyTorch, FastAPI, and Database Design.**
 - ⚡ **Superpower:** Bridging the gap between robust software engineering and cutting-edge artificial intelligence.
@@ -84,21 +79,9 @@ fun_fact: "I convert caffeine into clean code and fine-tuned models ☕✨"
 
 <div align="center">
 
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=yuthpharoyorn&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuthpharoyorn&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuthpharoyorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yuthpharoyorn&show_icons=true&locale=en&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuthpharoyorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
