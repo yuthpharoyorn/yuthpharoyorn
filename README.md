@@ -91,6 +91,15 @@ or connect via **[LinkedIn](https://www.linkedin.com/in/yuthpharo-yorn-6603463aa
 
 ---
 
+### 💼 Industry & Client Work
+
+| Type | Project | Description | Live Link |
+| :--- | :--- | :--- | :--- |
+| 🏢 **Internship Project** | **[OrraChat](https://orrachat.com/)** | Real-time chat & messaging web application featuring responsive messaging UI, authentication, and cloud synchronization. | [Visit Website ↗](https://orrachat.com/) |
+| 💻 **Freelance Project** | **[Guider Development](https://guiderdevelopment.com/landing)** | Production real estate & property platform with dynamic catalogs, interactive listings, and modern responsive UI/UX. | [Visit Website ↗](https://guiderdevelopment.com/landing) |
+
+---
+
 ### 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Links |
