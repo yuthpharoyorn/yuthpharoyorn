@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="yuthpharoyorn.vercel.app">
+  <a href="https://yuthpharoyorn.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
