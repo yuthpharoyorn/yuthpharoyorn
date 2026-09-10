@@ -30,7 +30,6 @@ jobs:
       - name: Update Stats SVGs
         run: |
           mkdir -p .github/assets dist
-          curl -s "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true&hide=contribs" > .github/assets/github-stats.svg
           curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" > .github/assets/top-langs.svg
           cp .github/assets/github-stats.svg dist/
           cp .github/assets/top-langs.svg dist/
