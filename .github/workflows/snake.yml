@@ -27,19 +27,10 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Generate Last 3 Months Activity Graph
-        uses: maurodesouza/github-readme-activity-graph-action@v1
-        with:
-          username: ${{ github.repository_owner }}
-          options: days=90&theme=tokyo-night&area=true&hide_border=true&custom_title=Last%203%20Months%20Activity
-          output_path: dist/activity-graph.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Update Stats SVGs with Last 3 Months
+      - name: Update Stats SVGs
         run: |
           mkdir -p .github/assets dist
-          curl -s "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&locale=en&theme=tokyonight&hide_border=true&custom_title=Recent%20Activity%20(Last%203%20Months)" > .github/assets/github-stats.svg
-          sed -i 's/(last year)/(last 3 months)/g' .github/assets/github-stats.svg
+          curl -s "https://github-stats-extended.vercel.app/api?username=${{ github.repository_owner }}&show_icons=true&locale=en&theme=tokyonight&hide_border=true&hide_rank=true&include_all_commits=true" > .github/assets/github-stats.svg
           curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" > .github/assets/top-langs.svg
           cp .github/assets/github-stats.svg dist/
           cp .github/assets/top-langs.svg dist/

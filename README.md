@@ -78,15 +78,16 @@ or connect via **[LinkedIn](https://www.linkedin.com/in/yuthpharo-yorn-6603463aa
 
 ---
 
-### 📊 GitHub Activity & Metrics (Last 3 Months)
+### 📊 GitHub Activity & Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/main/.github/assets/github-stats.svg" alt="Recent Activity (Last 3 Months)" />
+  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/main/.github/assets/github-stats.svg" alt="GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/main/.github/assets/top-langs.svg" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/output/activity-graph.svg" alt="Last 3 Months Activity Graph" width="100%" />
+  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
 </p>
 
 ---
@@ -107,14 +108,6 @@ or connect via **[LinkedIn](https://www.linkedin.com/in/yuthpharo-yorn-6603463aa
 | **🤖 AI Assistant / Agent Platform** | Autonomous AI agent platform capable of multi-step tool use and research. | Next.js, FastAPI, LangChain, OpenAI, PostgreSQL | [View Code](https://github.com/yuthpharoyorn/project-one) |
 | **⚡ Modern Full-Stack SaaS** | Production-ready SaaS starter with authentication, billing, and team workspaces. | React, TypeScript, Tailwind, Node.js, Stripe, Supabase | [View Code](https://github.com/yuthpharoyorn/project-two) |
 | **🧠 Deep Learning Pipeline** | End-to-end computer vision / NLP pipeline with automated dataset curation and model evaluation. | Python, PyTorch, HuggingFace, Docker, FastAPI | [View Code](https://github.com/yuthpharoyorn/project-three) |
-
----
-
-### 🐍 Contribution Graph Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
-</div>
 
 ---
 
