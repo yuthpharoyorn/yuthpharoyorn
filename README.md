@@ -46,7 +46,7 @@ current_project: Building my first mobile app
 - 💬 **Ask me about:** **React, Next.js, TypeScript, Python, PyTorch, FastAPI, and Database Design.**
 - ⚡ **Superpower:** Bridging the gap between robust software engineering and cutting-edge artificial intelligence.
 - 📫 **How to reach me:** Drop an email at **[yuthpharoyorn@gmail.com](mailto:yuthpharoyorn@gmail.com)**
-or connect via **[LinkedIn](www.linkedin.com/in/yuthpharo-yorn-6603463aa)**
+or connect via **[LinkedIn](https://www.linkedin.com/in/yuthpharo-yorn-6603463aa)**
 
 ---
 
@@ -80,18 +80,14 @@ or connect via **[LinkedIn](www.linkedin.com/in/yuthpharo-yorn-6603463aa)**
 
 ### 📊 GitHub Activity & Metrics (Last 3 Months)
 
-<div align="center">
-
-  <img src="https://github-stats-extended.vercel.app/api?username=yuthpharoyorn&show_icons=true&locale=en&theme=tokyonight&hide_border=true&custom_title=Recent%20Activity%20(Last%203%20Months)" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/main/.github/assets/github-stats.svg" alt="Recent Activity (Last 3 Months)" />
   &nbsp;&nbsp;
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yuthpharoyorn&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-
-  <br/><br/>
-
-  <!-- Last 3 Months (90 Days) Activity Graph -->
+  <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/main/.github/assets/top-langs.svg" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/yuthpharoyorn/yuthpharoyorn/output/activity-graph.svg" alt="Last 3 Months Activity Graph" width="100%" />
-
-</div>
+</p>
 
 ---
 
