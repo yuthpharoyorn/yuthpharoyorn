@@ -95,9 +95,9 @@ or connect via **[LinkedIn](https://www.linkedin.com/in/yuthpharo-yorn-6603463aa
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🤖 AI Assistant / Agent Platform** | Autonomous AI agent platform capable of multi-step tool use and research. | Next.js, FastAPI, LangChain, OpenAI, PostgreSQL | [Demo](https://your-demo-link.com) / [Code](https://github.com/yuthpharoyorn/project-one) |
-| **⚡ Modern Full-Stack SaaS** | Production-ready SaaS starter with authentication, billing, and team workspaces. | React, TypeScript, Tailwind, Node.js, Stripe, Supabase | [Demo](https://your-demo-link.com) / [Code](https://github.com/yuthpharoyorn/project-two) |
-| **🧠 Deep Learning Pipeline** | End-to-end computer vision / NLP pipeline with automated dataset curation and model evaluation. | Python, PyTorch, HuggingFace, Docker, FastAPI | [Demo](https://your-demo-link.com) / [Code](https://github.com/yuthpharoyorn/project-three) |
+| **🤖 AI Assistant / Agent Platform** | Autonomous AI agent platform capable of multi-step tool use and research. | Next.js, FastAPI, LangChain, OpenAI, PostgreSQL | [View Code](https://github.com/yuthpharoyorn/project-one) |
+| **⚡ Modern Full-Stack SaaS** | Production-ready SaaS starter with authentication, billing, and team workspaces. | React, TypeScript, Tailwind, Node.js, Stripe, Supabase | [View Code](https://github.com/yuthpharoyorn/project-two) |
+| **🧠 Deep Learning Pipeline** | End-to-end computer vision / NLP pipeline with automated dataset curation and model evaluation. | Python, PyTorch, HuggingFace, Docker, FastAPI | [View Code](https://github.com/yuthpharoyorn/project-three) |
 
 ---
 
