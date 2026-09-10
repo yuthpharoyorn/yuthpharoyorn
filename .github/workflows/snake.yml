@@ -1,4 +1,4 @@
-name: Generate Contribution Snake
+name: Generate Profile Visuals
 
 on:
   schedule: # Run automatically every 24 hours
@@ -24,7 +24,15 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push Snake SVG to Output Branch
+      - name: Generate Last 3 Months Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: days=90&theme=tokyo-night&area=true&hide_border=true&custom_title=Last%203%20Months%20Activity
+          output_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push Visuals to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
