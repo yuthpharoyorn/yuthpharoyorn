@@ -11,7 +11,7 @@
   <br/><br/>
 
   <!-- Social Badges -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="www.linkedin.com/in/yuthpharo-yorn-6603463aa">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
@@ -19,11 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://x.com/YOUR_TWITTER">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:yuthpharoyorn@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
@@ -36,15 +32,14 @@
 ### 💫 About Me
 
 ```yaml
-name: Yuthpharo
+name: Yorn Yuthpharo
 role: Full-Stack Developer & AI Engineer
-location: YOUR_LOCATION 🌍
+location: Phnom Penh 🌍
 focus: Scalable Web Systems & Applied Machine Learning
-current_project: Building an intelligent AI-driven SaaS platform 🚀
-fun_fact: "I convert caffeine into clean code and fine-tuned models ☕✨"
+current_project: Building my first mobile app
 ```
 
-- 🔭 **Currently working on:** Next-generation web applications powered by generative AI & LLMs.
+- 🔭 **Currently working on:** Wallpaper Engine Mobile App
 - 🧠 **Exploring & Learning:** Agentic architectures, RAG systems, Vector databases, and Cloud-native microservices.
 - 💬 **Ask me about:** **React, Next.js, TypeScript, Python, PyTorch, FastAPI, and Database Design.**
 - ⚡ **Superpower:** Bridging the gap between robust software engineering and cutting-edge artificial intelligence.
