@@ -66,7 +66,7 @@ or connect via **[LinkedIn](https://www.linkedin.com/in/yuthpharo-yorn-6603463aa
 
 <h4 align="center">🤖 AI, Machine Learning & Data Science</h4>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,huggingface,scikitlearn,opencv,pandas,numpy,jupyter&perline=8" alt="AI & ML Stack" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv&perline=4" alt="AI & ML Stack" />
 </p>
 
 <h4 align="center">☁️ DevOps, Cloud & Developer Tools</h4>
